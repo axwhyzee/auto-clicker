@@ -9,5 +9,5 @@ Schedule click at 15:00 HRS.
 Cursor coordinates will lock in after 5 seconds
 
 ```
-python auto-clicker.py -H 15 -w 5
+python auto-clicker.py -H 15 -M 0 -w 5
 ```
